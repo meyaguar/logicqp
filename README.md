@@ -29,16 +29,10 @@ LogicQP es una aplicación web diseñada para la gestión de inventarios, con ca
     npm install
     ```
 
-3. Configurar el archivo `.env` con los siguientes valores:
+3. Configurar el archivo `.env` los siguientes valores:
 
 ```plaintext
-APP_NAME=LogicQP
-APP_ENV=local
-APP_KEY=GRUPO010GRUPO010GRUPO010GRUPO010
-APP_DEBUG=true
-APP_LOG_LEVEL=debug
 APP_URL=http://localhost
-
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
